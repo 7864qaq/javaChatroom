@@ -1,0 +1,4 @@
+使用ddl生成数据库，chatroom直接复制到eclipse-workspace下
+
+ChatRoomServer为服务器启动
+ClientStarter为客户端启动
